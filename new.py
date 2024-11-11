@@ -1,6 +1,5 @@
 def main():
 <<<<<<< HEAD
-    print("wht")
     return ("hello")
 =======
     return "hello"
